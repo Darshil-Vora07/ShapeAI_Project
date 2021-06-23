@@ -1,0 +1,6 @@
+Weather Stats for - SURAT  || 23 Jun 2021 | 02:15:26 PM 
+Current temperature is: 31.99 deg C 
+Current temperature is: 31.99 deg C 
+Current weather desc  : haze
+Current Humidity      : 66% 
+Current wind speed    : 4.12kmph 
